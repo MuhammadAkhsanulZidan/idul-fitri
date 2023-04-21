@@ -1,0 +1,25 @@
+@media (max-width: 1000px) {
+    
+    .headLine{
+        height: 100%;
+    }
+
+    .headLine img{
+        width: 70%;
+    }
+
+    .headLine .text{
+        font-size: 17px;
+        top:30%;
+        left: 50%;
+    }
+
+    
+
+    .sunnah .boxes .box{
+        width: 40%;
+        margin: 5%;
+    }
+
+
+}
